@@ -1,0 +1,22 @@
+
+.btn{
+    inline-size: 40px;
+    block-size:  40px;
+    border: 0;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-position: center;
+  }
+  
+  #play{
+    background-image: url("../icons/icons8-circled_play\ 1.svg");
+  }
+  #pause{
+    background-image: url("../icons/icons8-pause_button\ 1.svg");
+  }
+  #backward{
+    background-image: url("../icons/icons8-reset\ 2.svg");
+  }
+  #forward{
+    background-image: url("../icons/icons8-reset\ 1.svg");
+  }
